@@ -1,17 +1,19 @@
 ### Hi there 👋
 
 # Here are some projects to look at
-## Rock Paper Scissors Simulation
+## Rock Paper Scissors Simulation [Weekend Project]
 https://github.com/T410/rock-paper-scissors
 
 You can also check out the online working version
 https://rps-t410.netlify.app/
+![Rock Paper Scissors Simutaion Running GIF](https://user-images.githubusercontent.com/8334449/144915888-c0ec6bcb-7811-4d61-9bd4-c9dffdaeaf9c.gif)
 
 
 <!--
 **T410/T410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![output](https://user-images.githubusercontent.com/8334449/144915897-00e639e3-acfb-451e-9f8d-5a4c60f60340.gif)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
