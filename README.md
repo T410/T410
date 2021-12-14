@@ -1,26 +1,15 @@
-### Hi there 👋
-
 # Here are some projects to look at
-## Rock Paper Scissors Simulation [Weekend Project]
+## My Personal Blog [WIP] [![Netlify Status](https://api.netlify.com/api/v1/badges/db82cac7-6277-498c-b00c-3da8e58dbb26/deploy-status)](https://app.netlify.com/sites/t410/deploys)
+https://github.com/T410/t410.me
+
+You can see it live on
+https://t410.me
+
+
+## Rock Paper Scissors Simulation [Weekend Project] [![Netlify Status](https://api.netlify.com/api/v1/badges/595da0eb-e2ad-4c62-885a-3ed62cd814f3/deploy-status)](https://app.netlify.com/sites/rps-t410/deploys)
 https://github.com/T410/rock-paper-scissors
 
 You can also check out the online working version
 https://rps-t410.netlify.app/
+
 ![Rock Paper Scissors Simutaion Running GIF](https://user-images.githubusercontent.com/8334449/144915888-c0ec6bcb-7811-4d61-9bd4-c9dffdaeaf9c.gif)
-
-
-<!--
-**T410/T410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-![output](https://user-images.githubusercontent.com/8334449/144915897-00e639e3-acfb-451e-9f8d-5a4c60f60340.gif)
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
