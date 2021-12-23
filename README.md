@@ -15,7 +15,15 @@ I'm a software engineer focusing on frontend development based in Turkey.
 
 # Here are some projects to look at
 ## My Personal Blog [![t410.me source](https://img.shields.io/badge/-source-red?style=flat&link=https://github.com/T410/t410.me)](https://github.com/T410/t410.me) [![t410.me demo](https://img.shields.io/badge/-demo-green?style=flat&link=https://t410.me/)](https://t410.me/)
+### Tech
+- React (create-react-app)
+- React Router
+- TypeScript
 
 ## Rock Paper Scissors Simulation [Weekend Project] [![rps source](https://img.shields.io/badge/-source-red?style=flat&link=https://github.com/T410/rock-paper-scissors)](https://github.com/T410/rock-paper-scissors) [![rps demo](https://img.shields.io/badge/-demo-green?style=flat&link=https://rps-t410.netlify.app/)](https://rps-t410.netlify.app/)
+### Tech
+- Webpack
+- HTML Canvas
+- TypeScript
 
 ![Rock Paper Scissors Simutaion Running GIF](https://user-images.githubusercontent.com/8334449/144915888-c0ec6bcb-7811-4d61-9bd4-c9dffdaeaf9c.gif)
