@@ -10,6 +10,7 @@ I'm a software engineer focusing on frontend development based in Turkey.
 ![JavaScript](https://img.shields.io/badge/-javascript-black?logo=javascript&style=for-the-badge)
 ![NodeJS](https://img.shields.io/badge/-node.js-black?logo=node.js&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/-html-black?logo=html5&style=for-the-badge)
+
 ![CSS](https://img.shields.io/badge/-css-black?logo=css3&style=for-the-badge)
 
 
@@ -24,6 +25,7 @@ A simple site that I try to showcase my projects and my "articles" that I wrote.
 ![TypeScript](https://img.shields.io/badge/-typescript-black?logo=typescript&style=for-the-badge)
 
 ## Pomodoro Timer [![pomodoro source](https://img.shields.io/badge/-source-red?style=flat&link=https://github.com/T410/pomodoro)](https://github.com/T410/pomodoro) [![pomodoro demo](https://img.shields.io/badge/-demo-green?style=flat&link=https://pomodoro.t410.me/)](https://pomodoro.t410.me/)
+![Screen Shot 2022-01-22 at 00 11 08](https://user-images.githubusercontent.com/8334449/150600719-121c6dfe-23aa-4649-b012-04af0fe14406.png)
 
 Yet another Pomodoro Timer.
 You can learn about pomodoro technique/timer here https://en.wikipedia.org/wiki/Pomodoro_Technique
