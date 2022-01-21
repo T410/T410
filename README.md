@@ -15,15 +15,32 @@ I'm a software engineer focusing on frontend development based in Turkey.
 
 # Here are some projects to look at
 ## My Personal Blog [![t410.me source](https://img.shields.io/badge/-source-red?style=flat&link=https://github.com/T410/t410.me)](https://github.com/T410/t410.me) [![t410.me demo](https://img.shields.io/badge/-demo-green?style=flat&link=https://t410.me/)](https://t410.me/)
+
+A simple site that I try to showcase my projects and my "articles" that I wrote.
+
 ### Tech
-- React (create-react-app)
-- React Router
-- TypeScript
+![React](https://img.shields.io/badge/-react-black?logo=react&style=for-the-badge)
+![React Router](https://img.shields.io/badge/-reactrouter-black?logo=react-router&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-typescript-black?logo=typescript&style=for-the-badge)
+
+## Pomodoro Timer [![pomodoro source](https://img.shields.io/badge/-source-red?style=flat&link=https://github.com/T410/pomodoro)](https://github.com/T410/pomodoro) [![pomodoro demo](https://img.shields.io/badge/-demo-green?style=flat&link=https://pomodoro.t410.me/)](https://pomodoro.t410.me/)
+
+Yet another Pomodoro Timer.
+You can learn about pomodoro technique/timer here https://en.wikipedia.org/wiki/Pomodoro_Technique
+
+### Tech
+![React](https://img.shields.io/badge/-react-black?logo=react&style=for-the-badge)
+![Redux](https://img.shields.io/badge/-redux-black?logo=redux&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-typescript-black?logo=typescript&style=for-the-badge)
+![Tailwind](https://img.shields.io/badge/-tailwind-black?logo=tailwind-css&style=for-the-badge)
 
 ## Rock Paper Scissors Simulation [Weekend Project] [![rps source](https://img.shields.io/badge/-source-red?style=flat&link=https://github.com/T410/rock-paper-scissors)](https://github.com/T410/rock-paper-scissors) [![rps demo](https://img.shields.io/badge/-demo-green?style=flat&link=https://rps-t410.netlify.app/)](https://rps-t410.netlify.app/)
+
+I stumbled upon a GIF other day on Twitter. Unfortunately I can't find it now and I don't know who the author is. I just wanted to replicate the idea of it and here it is!
+
 ### Tech
-- Webpack
-- HTML Canvas
-- TypeScript
+![Webpack](https://img.shields.io/badge/-webpack-black?logo=webpack&style=for-the-badge)
+![HTML Canvas API](https://img.shields.io/badge/-html%20canvas%20API-black?logo=html5&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-typescript-black?logo=typescript&style=for-the-badge)
 
 ![Rock Paper Scissors Simutaion Running GIF](https://user-images.githubusercontent.com/8334449/144915888-c0ec6bcb-7811-4d61-9bd4-c9dffdaeaf9c.gif)
